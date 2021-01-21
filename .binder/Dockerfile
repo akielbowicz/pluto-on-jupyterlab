@@ -1,0 +1,1 @@
+FROM sashakile/binder:latest
